@@ -1,0 +1,50 @@
+.gamefield {
+    margin-top: 10px;
+    max-width: 860px;
+    max-height: 645px;
+    margin-bottom: 250px;
+}
+
+.background-image {
+    height: 215px;
+    width: 215px;
+    margin-top: 10px;
+}
+
+.top {
+    margin-top: 200px;
+    font-size: 100px;
+    text-align: center;
+    font-stretch: semi-exanded;
+    color: white; 
+    font-family: Impact; 
+    font-style: bold;
+}
+
+.start-game-button {
+    margin-top: 100px;
+    font-size: 50px;
+    text-align: center;
+    font-stretch: semi-exanded;
+    color: #6c893f; 
+    font-family: Impact; 
+    font-style: bold;
+    border: 50px;
+    border-radius: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.current-status {
+    margin-top: 100px;
+    font-size: 50px;
+    text-align: center;
+    font-stretch: semi-exanded;
+    color: white; 
+    font-family: Impact; 
+    font-style: bold;
+    border: 50px;
+    border-radius: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
